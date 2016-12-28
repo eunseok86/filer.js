@@ -1,7 +1,7 @@
 {
-  "name": "filer.js",
-  "version": "0.4.5",
-  "description": "A wrapper library for the HTML5 Filesystem API what reuses UNIX commands (cp, mv, ls) for its API.",
+  "name": "filer.js-support-crosswalk",
+  "version": "0.1.0",
+  "description": "Changed to enable crosswalk support in filer.js",
   "main": "src/filer.js",
   "directories": {
     "test": "tests"
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ebidel/filer.js.git"
+    "url": "git+https://github.com/eunseok86/filer.js.git"
   },
-  "author": "Eric Bidelman <ebidel@>",
+  "author": "",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/ebidel/filer.js/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/ebidel/filer.js#readme",
+  "homepage": "",
   "devDependencies": {
     "google-closure-compiler-js": "*",
     "gulp": "^3.9.1",
